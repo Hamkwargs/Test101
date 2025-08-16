@@ -1,2 +1,2 @@
-print("hello world!")
+print("hello monkey!")
 print("mirror mirror on the wall")
